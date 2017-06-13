@@ -1,0 +1,14 @@
+[BASIC]
+good-names=log
+class-attribute-rgx=([A-Za-z_][A-Za-z0-9_]{2,60}|(__.*__))$
+function-rgx=([a-z_][a-z0-9_]{2,30}|test_[a-z0-9_]{2,90})$
+method-rgx=([a-z_][a-z0-9_]{2,30}|test_[a-z0-9_]{2,90})$
+
+[MESSAGES CONTROL]
+disable=bad-continuation,import-error,locally-disabled,locally-enabled,missing-docstring,no-init,too-few-public-methods
+
+[REPORTS]
+output-format=colorized
+
+[FORMAT]
+max-line-length=120
