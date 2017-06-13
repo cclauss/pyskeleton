@@ -1,4 +1,6 @@
 coverage
+pip
 pycodestyle
 pydocstyle
 pylint
+virtualenv
