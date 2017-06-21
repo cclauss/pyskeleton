@@ -5,7 +5,7 @@ function-rgx=([a-z_][a-z0-9_]{2,30}|test_[a-z0-9_]{2,90})$
 method-rgx=([a-z_][a-z0-9_]{2,30}|test_[a-z0-9_]{2,90})$
 
 [MESSAGES CONTROL]
-disable=bad-continuation,import-error,locally-disabled,locally-enabled,missing-docstring,no-init,too-few-public-methods
+disable=bad-continuation,locally-disabled,locally-enabled,missing-docstring,no-init,too-few-public-methods
 
 [REPORTS]
 output-format=colorized
