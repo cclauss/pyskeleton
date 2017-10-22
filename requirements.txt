@@ -3,4 +3,3 @@ pip
 pycodestyle
 pydocstyle
 pylint
-virtualenv
