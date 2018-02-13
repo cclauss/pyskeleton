@@ -1,4 +1,6 @@
 coverage
+MonkeyType
+mypy
 pip
 pycodestyle
 pydocstyle
