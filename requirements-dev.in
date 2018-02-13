@@ -2,6 +2,7 @@ coverage
 MonkeyType
 mypy
 pip
+pip-tools
 pycodestyle
 pydocstyle
 pylint
