@@ -1,5 +1,4 @@
 coverage
-MonkeyType
 mypy
 pip
 pip-tools
